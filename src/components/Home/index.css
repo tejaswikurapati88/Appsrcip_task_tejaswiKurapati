@@ -1,0 +1,131 @@
+.bg-home-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.filter-top-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  align-items: center;
+  width: 100%;
+}
+.content {
+  color: #252020;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+}
+.fil-cont {
+  line-height: 21.6px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hide-icon {
+  color: #292d32;
+}
+.hide {
+  color: #888792;
+  font-family: Adobe Caslon Pro;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: right;
+}
+.recommended {
+  color: #252020;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+}
+.arrow {
+  height: 10px;
+  width: 5px;
+  margin-right: 5px;
+  color: #292d32;
+  cursor: pointer;
+}
+.arrow-down {
+  height: 5px;
+  width: 10px;
+  margin-left: 5px;
+  color: #292d32;
+  cursor: pointer;
+}
+.cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+.bg-home-con {
+  display: flex;
+  flex-direction: row;
+}
+.inp-box {
+  color: #252020;
+  font-family: 'Roboto';
+}
+.ul-con {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding-inline-start: 0px;
+  margin-left: 80px;
+}
+.bg-home-con {
+  display: flex;
+
+  align-items: flex-start;
+}
+.filter-containers {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-inline-start: 0px;
+  font-family: 'Roboto';
+}
+.conta {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.fil-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  height: 22px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 0px;
+  font-family: 'Roboto';
+}
+.left-cont {
+  width: Fixed (200px);
+  height: Hug (846px);
+  top: 652px;
+  left: 96px;
+  gap: 24px;
+  opacity: 0px;
+}
+.border {
+  border-bottom: 1px solid #e5e5e5;
+  margin-top: 10px;
+}

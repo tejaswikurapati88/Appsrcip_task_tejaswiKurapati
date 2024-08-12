@@ -1,0 +1,53 @@
+.list {
+  display: inline;
+  list-style-type: none;
+}
+.list-cont {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin: 10px;
+}
+
+.images {
+  width: 250px;
+  height: 299px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.name {
+  font-family: 'Simplon Norm';
+  font-size: 18px;
+  font-weight: 700;
+  text-align: left;
+  color: #252020;
+  text-overflow: ellipsis;
+  margin-bottom: 8px;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 200px;
+}
+.desc-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+.desc {
+  font-family: 'Simplon Norm';
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  color: #888792;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 200px;
+  margin-top: 0px;
+}
+.heart {
+  margin-top: 0px;
+  padding-bottom: 20px;
+}
